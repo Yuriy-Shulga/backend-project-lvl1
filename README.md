@@ -11,3 +11,7 @@
 3. Enter the command <code>npm link</code>
 4. Run the game:
 <code>brain-even</code> <code>brain-calc</code> <code>brain-prime</code> <code>brain-gcd</code> <code>brain-progression</code>
+
+## brain-even
+The player is shown a random number. He needs to answer 'yes' if the number is even, or 'no' if it is odd
+[![asciicast](https://asciinema.org/a/530257.svg)](https://asciinema.org/a/530257)
