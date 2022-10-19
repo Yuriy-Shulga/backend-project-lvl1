@@ -21,7 +21,7 @@ export default () => {
 
     if (correctAnswer !== userAsnwer) {
       console.log(`${userAsnwer} is wrong answer ;(. Correct answer was ${correctAnswer}.`);
-      console.log(`Let's try again, ${userName}`);
+      console.log(`Let's try again, ${userName}!`);
       return;
     }
 
