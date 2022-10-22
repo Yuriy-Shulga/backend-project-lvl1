@@ -15,3 +15,7 @@
 ## brain-even
 The player is shown a random number. He needs to answer 'yes' if the number is even, or 'no' if it is odd
 [![asciicast](https://asciinema.org/a/530257.svg)](https://asciinema.org/a/530257)
+
+## brain-even
+The player is shown a random mathematical expression, for example 35 + 16, which needs to be calculated and written the correct answer.
+[![asciicast](https://asciinema.org/a/531249.svg)](https://asciinema.org/a/531249)
