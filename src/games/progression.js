@@ -18,7 +18,7 @@ const genQuestionAndAnswer = () => {
   const startNum = getRandomNumber(2, 100);
   const difference = getRandomNumber(2, 100);
   const hiddenElementIndex = getRandomNumber(0, lengthProgression - 1);
-  const hiddenSymbol = '...';
+  const hiddenSymbol = '..';
 
   const question = genProgression(startNum, difference, lengthProgression);
   const correctAnswer = String(question[hiddenElementIndex]);
