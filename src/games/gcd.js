@@ -14,7 +14,7 @@ const genQuestionAndAnswer = () => {
   const num1 = getRandomNumber(2, 10000);
   const num2 = getRandomNumber(2, 10000);
 
-  const question = `${num1} ${num2}`
+  const question = `${num1} ${num2}`;
 
   const correctAnswer = String(gcd(num1, num2));
 
