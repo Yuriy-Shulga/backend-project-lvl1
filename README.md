@@ -23,3 +23,7 @@ The player is shown a random mathematical expression, for example 35 + 16, which
 ## brain-gcd
 The player is shown two random numbers, for example, 25 50. The user must calculate and enter the largest common divisor of these numbers.
 [![asciicast](https://asciinema.org/a/531252.svg)](https://asciinema.org/a/531252)
+
+## brain-progression
+The player is shown a series of numbers forming an arithmetic progression, replacing any of the numbers with two dots. The player must determine this number.
+[![asciicast](https://asciinema.org/a/531305.svg)](https://asciinema.org/a/531305)
